@@ -6,7 +6,7 @@
 <h4 align="center">Project Name: 한 방</h4>
 
 <h2 align="center"> 캡스톤 디자인 시연동영상 : https://youtu.be/MEHMfiI7w0E </h2>
--------------------------------------------
+
 
 ## Profile
 - 이영주(전자공학과)
